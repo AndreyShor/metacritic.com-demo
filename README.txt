@@ -40,5 +40,4 @@ What functionality was implemented ?
 * Architecture of application 
     1. I was writting code in OOP style and use MVC 
 
-Finally: You must pay students for this project, too much work for 1 person :D
 
